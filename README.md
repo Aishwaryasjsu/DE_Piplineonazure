@@ -20,4 +20,6 @@
 8. Tableau
 9. Git
 
+## Piplines in Data Factory
+![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/f60c188f-d8e5-4f9b-bd8f-111e42e8ea0a)
 
