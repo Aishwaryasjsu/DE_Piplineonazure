@@ -2,7 +2,7 @@
 ## This projects includes data extraction, transformation using microsoft azure services.
 
 ## Steps included:
- 1. Extracting data from folder using API.
+ 1. Extracting data from git folder using API.
  2. Creating container in storage.
  3. Created data piplines in Data Factory to load data extracted into Data lake Gen2.
  4. Created Databrick account and transformed data using pyspark.
