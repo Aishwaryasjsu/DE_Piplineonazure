@@ -1,4 +1,4 @@
-# Data Engineering project End to End on Microsift Azure.
+# Data Engineering project End to End on Microsoft Azure.
 ## This projects includes data extraction, transformation using microsoft azure services.
 
 ## Steps included:
@@ -22,4 +22,16 @@
 
 ## Piplines in Data Factory
 ![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/f60c188f-d8e5-4f9b-bd8f-111e42e8ea0a)
+
+## Transforming data in spark using pyspark
+https://adb-4155200025381794.14.azuredatabricks.net/?o=4155200025381794#notebook/104741734032349
+
+## Synpase Analytics used for visualization and quering
+SYNAPSE QUERY AND CHARTS
+![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/38a7f765-75c6-4c0b-a363-c3dd55e065ed)
+
+![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/eb59cfe1-9a7a-4911-8484-570730bb17ec)
+
+![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/4d82082f-be72-4bcc-a0d0-cb8eb5c12c2c)
+
 
