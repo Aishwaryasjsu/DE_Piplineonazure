@@ -1,12 +1,15 @@
 # Data Engineering project End to End on Microsoft Azure.
 ## This projects includes data extraction, transformation using microsoft azure services.
+## Archiecture Daigram:
+   ![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/2187f14d-b900-4e9c-9b7e-795ec87c6a5b)
 
 ## Steps included:
  1. Extracting data from git folder using API.
  2. Creating container in storage.
  3. Created data piplines in Data Factory to load data extracted into Data lake Gen2.
  4. Created Databrick account and transformed data using pyspark.
- 5. Loaded transformed data into DataLake Gen 2. 
+ 5. Loaded transformed data into DataLake Gen 2.
+ 6. Ran analytical queries in Azure Synapse.
  7. Connected to Tableau to visualise data of olympics.
 
 ## Services used and learnt:
