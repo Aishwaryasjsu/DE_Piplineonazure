@@ -1,6 +1,6 @@
 # Data Engineering project End to End on Microsoft Azure.
 ## This projects includes data extraction, transformation using microsoft azure services.
-## Archiecture Daigram:
+## Archiecture Diagram:
    ![image](https://github.com/Aishwaryasjsu/DE_Piplineonazure/assets/111553278/2187f14d-b900-4e9c-9b7e-795ec87c6a5b)
 
 ## Steps included:
